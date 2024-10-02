@@ -13,8 +13,7 @@ Before Starting a project you must follow this steps or you can refer SDLC
 6.Test in Proper Way
 
 
-Key Functional Requirement :-
-Before Starting a project you must follow this steps or you can refer SDLC
+
 
 Functional Requirement:-
 1.Bus Company Name
